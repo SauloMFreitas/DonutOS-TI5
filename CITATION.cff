@@ -1,0 +1,44 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: DonutOS
+authors:
+  - family-names: Marques Fernandes
+    given-names: Bernardo
+  - family-names: Santiago de Oliveira
+    given-names: Bruno
+  - family-names: Freire Kochem
+    given-names: Fabio
+  - family-names: Lommez Candido Ribeiro
+    given-names: Marcos Antônio
+  - family-names: de Moura Zandona Freitas
+    given-names: Saulo
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Domingos da Cunha
+    given-names: Felipe
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Alcântara Souza
+    given-names: Matheus
+  - name-suffix: Professor
+    affilitation: PUC Minas
+    family-names: Henrique Ramos Costa
+    given-names: Pedro
+  - name-suffix: Professor
+    affilitation: PUC Minas
+    family-names: Carlini Sperandio
+    given-names: Ricardo
+
+keywords:
+  - Donut
+  - OS
+  - SO
+  - Sistema
+  - Sistemas
+  - Operacional
+  - Operacionais
+  - DonutOS
+repository-code: https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-ti5-2024-1-g01-donutos
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2024-06-21
